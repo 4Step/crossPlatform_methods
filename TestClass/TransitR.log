@@ -1,0 +1,43 @@
+==================================================================
+ Converter (BIN to CSV)                 Wed Dec 31 19:00:13 1969
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov-24-2013)
+==================================================================
+The binary file       : TransitR.bin
+The dictionary file   : TransitR.dcb
+The binary file       : TransitR.bin
+Total number of fields: 24
+Total field bytes     : 202
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================
+  1                         Route_ID     I     4             1
+  2                       Route_Name     C    32             5
+  3                         Operator     I     4            37
+  4                          Company     I     4            41
+  5                             Mode     I     4            45
+  6                       AM_Headway     R     8            49
+  7                      OFF_Headway     R     8            57
+  8                          XferPen     R     8            65
+  9                         AM IWAIT     R     8            73
+ 10                        OFF_IWAIT     R     8            81
+ 11                             Time     R     8            89
+ 12                        RFacLocal     R     8            97
+ 13                         RFacPrem     R     8           105
+ 14                          FareFac     R     8           113
+ 15                             Fare     R     8           121
+ 16                          Line_No     C    10           129
+ 17                         ONS PEAK     R     8           139
+ 18                        OFFS PEAK     R     8           147
+ 19                        ONS OFFPK     R     8           155
+ 20                       OFFS OFFPK     R     8           163
+ 21                           ONS AM     R     8           171
+ 22                          OFFS AM     R     8           179
+ 23                           ONS PM     R     8           187
+ 24                          OFFS PM     R     8           195
+==================================================================
+==================================================================
+Number of fields    :24
+Total size          :8080
+Combined field size :202
+Number of Lines     :40
+==================================================================

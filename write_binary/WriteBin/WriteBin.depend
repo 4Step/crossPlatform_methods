@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1445435532 source:c:\personal\working\write_binary\writebin\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<time.h>
+	<sstream>
+	<algorithm>
+	<windows.h>
+	<cstdlib>
+	<stdio.h>
+

@@ -1,0 +1,11 @@
+==================================================================
+ Convert (BIN to CSV)                         Mon Nov 25 23:50:31 2013
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+==================================================================
+The binary file       : NTLEGPK_10A.DBF
+The dictionary file   : NTLEGPK_10A.dcb
+Total number of fields: 8591778
+Total field bytes     : 8591776
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================

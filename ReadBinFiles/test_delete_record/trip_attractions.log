@@ -1,0 +1,28 @@
+==================================================================
+ Convert (BIN to CSV)                         Sat Sep 26 21:39:22 2015
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+==================================================================
+The binary file       : C:\personal\working\ReadBinFiles\test_delete_record\trip_attractions.bin
+The dictionary file   : C:\personal\working\ReadBinFiles\test_delete_record\trip_attractions.DCB
+Total number of fields: 10
+Total field bytes     : 76
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================
+  1                        MODEL_TAZ     I     4             1
+  2                           hbw_i1     R     8             5
+  3                           hbw_i2     R     8            13
+  4                           hbw_i3     R     8            21
+  5                           hbw_i4     R     8            29
+  6                           hbw_i5     R     8            37
+  7                              hbo     R     8            45
+  8                              hbs     R     8            53
+  9                              nhb     R     8            61
+ 10                            nhbaw     R     8            69
+==================================================================
+==================================================================
+Number of fields    :10
+Total size          :232408
+Combined field size :76
+Number of Lines     :3058
+==================================================================

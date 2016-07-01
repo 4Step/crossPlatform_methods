@@ -1,0 +1,41 @@
+==================================================================
+ Convert (BIN to CSV)                         Sun Sep 27 22:20:51 2015
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+==================================================================
+The binary file       : C:\personal\working\ReadBinFiles\FBRMPO.bin
+The dictionary file   : C:\personal\working\ReadBinFiles\FBRMPO.DCB
+Total number of fields: 23
+Total field bytes     : 183
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================
+  1                               ID     I     4             1
+  2                      Street Name     C    36             5
+  3                     Route Number     C    12            41
+  4                           COUNTY     C    16            53
+  5                       Screenline     S     2            69
+  6                      TIP Project     C     9            71
+  7                 Count Station ID     C     7            80
+  8                 2005 Count Total     R     8            87
+  9                    AB 2005 Count     R     8            95
+ 10                    BA 2005 Count     R     8           103
+ 11                       2005 Count     R     8           111
+ 12                        FUN_CLASS     I     4           119
+ 13                         CTP_Type     C    27           123
+ 14                           CTP_CD     I     4           150
+ 15                       TERRAIN_CD     I     4           154
+ 16                       DIVIDED_CD     S     2           158
+ 17                        SPD_LIMIT     S     2           160
+ 18                       LANE_WIDTH     S     2           162
+ 19                         AB_LANES     I     4           164
+ 20                         BA_LANES     I     4           168
+ 21                             MODE     C     4           172
+ 22                          CanWalk     I     4           176
+ 23                        TruckRstr     I     4           180
+==================================================================
+==================================================================
+Number of fields    :23
+Total size          :1134783
+Combined field size :183
+Number of Lines     :6201
+==================================================================

@@ -1,0 +1,11 @@
+==================================================================
+ Convert (BIN to CSV)                         Sat Sep 26 20:02:31 2015
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+==================================================================
+The binary file       : FBRMPO.bin
+The dictionary file   : FBRMPO.DCB
+Total number of fields: 4663126
+Total field bytes     : 4734932
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================

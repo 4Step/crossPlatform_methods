@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1429038691 source:c:\personal\working\readbinfiles\dcbfile.cpp
+	"DCBFile.h"
+
+1385412232 c:\personal\working\readbinfiles\dcbfile.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1443311004 source:c:\personal\working\readbinfiles\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<iomanip>
+	<time.h>
+	"DCBFile.h"
+	<windows.h>
+

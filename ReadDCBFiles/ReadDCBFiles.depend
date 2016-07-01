@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1385192611 source:c:\personal\working\readdcbfiles\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<vector>
+	<iomanip>
+	<algorithm>
+

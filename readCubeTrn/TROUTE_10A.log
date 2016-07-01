@@ -1,0 +1,123 @@
+=============================================================================
+ Convert (CUBE to CSV)                         Thu Mar 13 01:10:56 2014
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov,2013)
+=============================================================================
+Route NoRoute Name                          Headway 1 Headway 2 Headway 3
+=============================================================================
+LINENAME , B-7EB , 21 , 1 , 40 , 60
+LINENAME , B-7WB , 21 , 1 , 40 , 60
+LINENAME , B-9NB , 21 , 1 , 30 , 30
+LINENAME , B-9SB , 21 , 1 , 30 , 30
+LINENAME , CS-BaldEB , 21 , 2 , 180 , 0
+LINENAME , CS-BaldWB , 21 , 2 , 180 , 360
+LINENAME , F-1WB , 1 , 21 , 30 , 60
+LINENAME , F-1EB , 21 , 1 , 30 , 60
+LINENAME , CS-EDGSB , 1 , 21 , 90 , 60
+LINENAME , CS-EDGNB , 1 , 21 , 60 , 72
+LINENAME , N-6NB , 1 , 21 , 45 , 45
+LINENAME , N-6SB , 1 , 21 , 45 , 45
+LINENAME , M-5NB , 1 , 21 , 40 , 40
+LINENAME , M-5SB , 1 , 21 , 40 , 40
+LINENAME , CS-Dins-RiverWB , 1 , 21 , 90 , 180
+LINENAME , CS-DinsRiverEB , 1 , 21 , 90 , 180
+LINENAME , CS-HighlandsSB , 1 , 21 , 60 , 60
+LINENAME , CS-HighlandsNB , 1 , 21 , 60 , 60
+LINENAME , NS-19EB-NB , 1 , 21 , 60 , 60
+LINENAME , NS-19SB-WB , 1 , 21 , 60 , 60
+LINENAME , CS-NorthsideEB-NB , 1 , 21 , 60 , 60
+LINENAME , CS-NorthsideSB-WB , 1 , 21 , 60 , 60
+LINENAME , P-3NB , 1 , 21 , 60 , 60
+LINENAME , P-3SB , 1 , 21 , 60 , 60
+LINENAME , P-4NB , 1 , 21 , 30 , 60
+LINENAME , P-4SB , 1 , 21 , 30 , 60
+LINENAME , CS-BeachNB , 1 , 21 , 90 , 72
+LINENAME , CS-BeachSB , 1 , 21 , 90 , 72
+LINENAME , CS-GolfBNB , 1 , 21 , 60 , 60
+LINENAME , CS-GolfBSB , 1 , 21 , 60 , 60
+LINENAME , L-7NB , 30 , 30
+LINENAME , L-7SB , 30 , 30
+LINENAME , L-8SB , 1 , 21 , 30 , 30
+LINENAME , L-8NB , 1 , 21 , 30 , 30
+LINENAME , L-9NB , 60 , 60
+LINENAME , L-9SB , 60 , 60
+LINENAME , SS-6WB , 1 , 21 , 65 , 65
+LINENAME , SS-6EB , 1 , 21 , 65 , 65
+LINENAME , SS-8EB , 1 , 21 , 70 , 70
+LINENAME , SS-8WB , 1 , 21 , 70 , 70
+LINENAME , SS-35NB , 1 , 21 , 50 , 0
+LINENAME , SS-35SB , 1 , 21 , 50 , 0
+LINENAME , SS-50SB , 22 , 6 , 40 , 0
+LINENAME , CT-1FSCJ-ManSB , 1 , 21 , 20 , 30
+LINENAME , CT-1FSCJ-ManNB , 1 , 21 , 20 , 30
+LINENAME , X-2NB , 22 , 2 , 60 , 0
+LINENAME , X-2SB , 22 , 2 , 60 , 0
+LINENAME , X-4NB , 22 , 6 , 30 , 0
+LINENAME , X-4SB , 22 , 6 , 30 , 0
+LINENAME , TR3-Beachsb , 6 , 21 , 30 , 30
+LINENAME , TR3-Beachnb , 6 , 21 , 30 , 30
+LINENAME , TR1-RsideSB , 21 , 10 , 35
+LINENAME , TR1-RsideNB , 21 , 10 , 35
+LINENAME , TR10-Bay , 21 , 10 , 30
+LINENAME , TR9-Beaver , 6 , 21 , 50 , 50
+LINENAME , ASE-1 , 23 , 6 , 8
+LINENAME , ASE-2 , 23 , 6 , 8
+LINENAME , CT-2TownPhEB , 1 , 21 , 60 , 60
+LINENAME , CT-2TownPhWB , 1 , 21 , 60 , 60
+LINENAME , AR-6EB , 1 , 21 , 35 , 36
+LINENAME , AR-6WB , 1 , 21 , 35 , 35
+LINENAME , AR-7EB , 1 , 21 , 40 , 40
+LINENAME , AR-7WB , 1 , 21 , 40 , 40
+LINENAME , CS-Arling-1CW , 1 , 21 , 60 , 72
+LINENAME , CS-Arling-2CCW , 1 , 21 , 90 , 90
+LINENAME , CT-4Atl-AmtrWB , 21 , 1 , 30 , 30
+LINENAME , CT-4Atl-AmtrEB , 1 , 21 , 30 , 30
+LINENAME , WS-91EB , 6 , 22 , 180 , 0
+LINENAME , WS-91WB , 6 , 21 , 0 , 0
+LINENAME , U-2NB , 1 , 21 , 40 , 60
+LINENAME , U-2SB , 1 , 21 , 40 , 60
+LINENAME , WS-2NB , 21 , 1 , 38 , 60
+LINENAME , WS-2SB , 21 , 1 , 38 , 51
+LINENAME , WS-52NB , 21 , 1 , 60 , 60
+LINENAME , WS-52SB , 21 , 1 , 60 , 60
+LINENAME , WS-6NB , 21 , 1 , 60 , 60
+LINENAME , WS-6SB , 21 , 1 , 60 , 60
+LINENAME , WS-12NB , 1 , 21 , 70 , 72
+LINENAME , WS-12SB , 1 , 21 , 70 , 72
+LINENAME , CS-MandarinCW , 21 , 1 , 45 , 90
+LINENAME , CS-MandarinCCW , 21 , 1 , 180 , 90
+LINENAME , CS-Ort-NASSB , 1 , 21 , 90 , 360
+LINENAME , CS-Ort-NASNB , 1 , 21 , 60 , 360
+LINENAME , CS-TalleyNB , 1 , 21 , 60 , 60
+LINENAME , CS-TalleySB , 1 , 21 , 60 , 60
+LINENAME , WS-7WB , 1 , 21 , 60 , 60
+LINENAME , WS-7EB , 1 , 21 , 60 , 60
+LINENAME , CT-3Air-PowNB , 1 , 21 , 60 , 60
+LINENAME , CT-3Air-PowSB , 1 , 21 , 60 , 60
+LINENAME , K-2GrandPEB , 1 , 21 , 35 , 35
+LINENAME , K-2GrandPWB , 1 , 21 , 35 , 35
+LINENAME , R-5FSCJKEB , 1 , 21 , 60 , 60
+LINENAME , R-5FSCJKWB , 1 , 21 , 60 , 60
+LINENAME , S-1Reg-AveNB , 1 , 21 , 70 , 70
+LINENAME , S-1Reg-AveSB , 1 , 21 , 70 , 70
+LINENAME , SSBRedLineSB , 21 , 8 , 180 , 120
+LINENAME , SSBRedLineNB , 21 , 8 , 90 , 180
+LINENAME , SSBBlueLineSB , 21 , 8 , 180 , 120
+LINENAME , SSBBlueLineNB , 21 , 8 , 90 , 180
+LINENAME , SSB-PurpleLineSB , 21 , 8 , 180 , 180
+LINENAME , SSB-PurpleLineNB , 21 , 8 , 180 , 180
+LINENAME , SSBOrangeLineSB , 21 , 8 , 180 , 120
+LINENAME , SSBOrangeLineNB , 21 , 8 , 90 , 180
+LINENAME , SSBGreenLineSB , 21 , 8 , 90 , 180
+LINENAME , SSBGreenLineNB , 21 , 8 , 180 , 120
+LINENAME , SSBTealLineSB , 21 , 8 , 180 , 360
+LINENAME , SSBTealLineNB , 21 , 8 , 180 , 360
+LINENAME , SSBConnectorSB , 21 , 8 , 90 , 90
+LINENAME , SSBConnectorNB , 21 , 8 , 60 , 90
+LINENAME , RS-Palat_OPNB , 21 , 8 , 180 , 0
+LINENAME , RS-Palat_OPSB , 21 , 8 , 180 , 0
+LINENAME , RS-PalCityWB , 21 , 8 , 90 , 60
+LINENAME , RS-PalCityEB , 21 , 8 , 180 , 60
+LINENAME , RS-Putnam_FeederSB , 21 , 8 , 90 , 180
+LINENAME , RS-Putnam_FeederNB , 21 , 8 , 90 , 180
+LINENAME , RS-Putnam_CrossEB , 21 , 8 , 180 , 180
+LINENAME , RS-Putnam_CrossWB , 21 , 8 , 90 , 180

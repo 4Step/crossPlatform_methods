@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1385880437 source:c:\personal\working\trytcadmatrix\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+	"mtxerr.h"
+	"CaliperMTX.h"
+	"mtxclass.hpp"
+
+1385880142 c:\personal\working\trytcadmatrix\mtxerr.h
+
+1385879896 c:\personal\working\trytcadmatrix\calipermtx.h
+
+1385876185 c:\personal\working\trytcadmatrix\mtxclass.h
+	<iostream>
+	"mtxerr.h"
+
+1385882047 source:c:\personal\working\trytcadmatrix\mtxclass.cpp
+	<stdio.h>
+	<iostream>
+	"mtxerr.h"
+	"CaliperMTX.h"
+	"mtxclass.hpp"
+
+1444419787 c:\personal\working\trytcadmatrix\mtxclass.hpp
+	<iostream>
+	"mtxerr.h"
+	"CaliperMTX.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1385688479 source:c:\personal\working\trydbf\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<string.h>
+	<sstream>
+	<algorithm>
+

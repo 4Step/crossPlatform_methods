@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1384115127 source:c:\personal\working\readcsv\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<vector>
+

@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1345493564 source:c:\personal\working\dbase-code-378\dbf.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+	<ctype.h>
+	<limits.h>
+	<math.h>
+	<ctime>
+	"bool.h"
+	"dbf.h"
+	"ioapi/zlib.h"
+	"ioapi/ioapi.h"
+	"minmax.h"
+	"stdint-ms.h"
+	<windows.h>
+
+1304514014 c:\personal\working\dbase-code-378\bool.h
+
+1345493564 c:\personal\working\dbase-code-378\dbf.h
+	<bool.h>
+
+1244730480 c:\personal\working\dbase-code-378\ioapi\zlib.h
+	"zconf.h"
+
+1244730480 c:\personal\working\dbase-code-378\ioapi\zconf.h
+	<windows.h>
+	<sys/types.h>
+	<unistd.h>
+	<unixio.h>
+
+1244463612 c:\personal\working\dbase-code-378\ioapi\ioapi.h
+	<stdio.h>
+	<sys/types.h>
+
+1244462434 c:\personal\working\dbase-code-378\minmax.h
+
+1244660844 c:\personal\working\dbase-code-378\stdint-ms.h
+	<stdint.h>
+
+1300818210 source:c:\personal\working\dbase-code-378\ioapi\ioapi.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"zlib.h"
+	"ioapi.h"
+	<io.h>
+	<sys/stat.h>
+

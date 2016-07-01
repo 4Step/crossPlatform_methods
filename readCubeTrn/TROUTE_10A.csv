@@ -1,0 +1,118 @@
+ID, NAME, LONGNAME, CIRCULAR, MODE, OPERATOR, HEADWAY[1], HEADWAY[2], USERA1
+1 , B-7EB , Baymeadows-Commonwealth eb,F,1,21,40,60,LB
+2 , B-7WB , Baymeadows-Commonwealth wb,F,1,21,40,60,LB
+3 , B-9NB , Beaver-Lane NB,F,1,21,30,30,LB
+4 , B-9SB , Beaver-Lane SB,F,1,21,30,30,LB
+5 , CS-BaldEB , CS-Baldwin eb,F,2,21,180,0,CS
+6 , CS-BaldWB , CS-Baldwin wb,F,2,21,180,360,CS
+7 , F-1WB , Florida-Broadway-Detroit wb,F,1,21,30,60,LB
+8 , F-1EB , Florida-Broadway-Detroit eb,F,1,21,30,60,LB
+9 , CS-EDGSB , CS-Edgewood-NS27 sb,F,1,21,90,60,CS
+10 , CS-EDGNB , CS-Edgewood-NS27 nb,F,1,21,60,72,CS
+11 , N-6NB , Sherwood nb,F,1,21,45,45,LB
+12 , N-6SB , Sherwood sb,F,1,21,45,45,LB
+13 , M-5NB , Moncrief B nb,F,1,21,40,40,LB
+14 , M-5SB , Moncrief B sb,F,1,21,40,40,LB
+15 , CS-Dins-RiverWB , CS-Dinsmore-River City-NS31 wb,F,1,21,90,180,CS
+16 , CS-DinsRiverEB , CS-Dinsmore River City-NS31 eb,F,1,21,90,180,CS
+17 , CS-HighlandsSB , CS-Highlands sb,F,1,21,60,60,CS
+18 , CS-HighlandsNB , CS-Highland nb,F,1,21,60,60,CS
+19 , NS-19EB-NB , Ave B-River City Marketplace eb-nb,F,1,21,60,60,LB
+20 , NS-19SB-WB , Ave B-River City Marketplace sb-wb,F,1,21,60,60,LB
+21 , CS-NorthsideEB-NB , CS-Northside-NS25 eb-nb,F,1,21,60,60,CS
+22 , CS-NorthsideSB-WB , CS-Northside-NS25 sb-wb,F,1,21,60,60,CS
+23 , P-3NB , Ernest-Jammes nb,F,1,21,60,60,LB
+24 , P-3SB , Ernest-Jammes sb,F,1,21,60,60,LB
+25 , P-4NB , Myrtle-Roosevelt nb,F,1,21,30,60,LB
+26 , P-4SB , Myrtle-Roosevelt sb,F,1,21,30,60,LB
+27 , CS-BeachNB , CS-Beaches-BH20 nb,F,1,21,90,72,CS
+28 , CS-BeachSB , CS-Beaches-BH20 sb,F,1,21,90,72,CS
+29 , CS-GolfBNB , CS-Golfbrook-NS29 nb,F,1,21,60,60,CS
+30 , CS-GolfBSB , CS-Golfbrook-NS29 sb,F,1,21,60,60,CS
+31 , L-7NB , SOUTEL-AVENUES NB,F,1,21,30,30,LB
+32 , L-7SB , SOUTEL-AVENUES SB,F,1,21,30,30,LB
+33 , L-8SB , Lem Turner-Ramona sb,F,1,21,30,30,LB
+34 , L-8NB , Lem Turner-Ramona nb,F,1,21,30,30,LB
+35 , L-9NB , Tallulah-Southpoint nb,F,1,21,60,60,LB
+36 , L-9SB , Tallulah-Soutpoint sb,F,1,21,60,60,LB
+37 , SS-6WB , Beach Blvd-Town Center-UNF wb,F,1,21,65,65,LB
+38 , SS-6EB , Beach Blvd-Town Center-UNF eb,F,1,21,65,65,LB
+39 , SS-8EB , Spring Park-San Souci eb,F,1,21,70,70,LB
+40 , SS-8WB , Spring Park-San Souci wb,F,1,21,70,70,LB
+41 , SS-35NB , Sunbeam-Old St Aug nb,F,1,21,50,0,LB
+42 , SS-35SB , Sunbeam-Old St Aug sb,F,1,21,50,0,LB
+43 , SS-50SB , SS-50 Mandarin Commuter sb,F,6,22,40,0,EB
+44 , CT-1FSCJ-ManSB , CT-1 FSCJ N-Main St-Mandarin sb,F,1,21,20,30,LB
+45 , CT-1FSCJ-ManNB , CT-1 FSCJ N-Main St-Mandarin nb,F,1,21,20,30,LB
+46 , X-2NB , Beaches Express nb,F,2,22,60,0,EB
+47 , X-2SB , Beaches Express sb,F,2,22,60,0,EB
+48 , X-4NB , Orange Park Express nb,F,6,22,30,0,EB
+49 , X-4SB , Orange Park Express sb,F,6,22,30,0,EB
+50 , TR3-Beachsb , Beaches-Trolley sb,F,6,21,30,30,TROLLEY
+51 , TR3-Beachnb , Beach-Trolley nb,F,6,21,30,30,TROLLEY
+52 , TR1-RsideSB , Riverside Trolley sb,F,6,21,10,35,TROLLEY
+53 , TR1-RsideNB , Riverside Trolley nb,F,6,21,10,35,TROLLEY
+54 , TR10-Bay , Bay Street Trolley,T,6,21,10,30,TROLLEY
+55 , TR9-Beaver , Beaver Street Trolley,T,6,21,50,50,TROLLEY
+56 , ASE-1 , ASE FCCJ-TERMINAL,F,7,23,6,8,SKYWAY
+57 , ASE-2 , ASE San Marco Station,F,7,23,6,8,SKYWAY
+58 , CT-2TownPhEB , Townsend-Phoenix eb,F,1,21,60,60,LB
+59 , CT-2TownPhWB , Townsend-Phoenix wb,F,1,21,60,60,LB
+60 , AR-6EB , University Park-Regency,F,1,21,35,36,LB
+61 , AR-6WB , University Park-Regency,F,1,21,35,35,LB
+62 , AR-7EB , Atlantic-Monument eb,F,1,21,40,40,LB
+63 , AR-7WB , Atlantic-Monument wb,F,1,21,40,40,LB
+64 , CS-Arling-1CW , CS-Arlington_1 AR21-Clockwise,T,1,21,60,72,CS
+65 , CS-Arling-2CCW , CS-Arlington_2 AR21-Counterclockwise,T,1,21,90,90,CS
+66 , CT-4Atl-AmtrWB , Atlantic Village-Amtrak,F,1,21,30,30,LB
+67 , CT-4Atl-AmtrEB , Atlantic Village-Amtrak EB,F,1,21,30,30,LB
+68 , WS-91EB , Westside-Flagler Center Exp eb,F,6,22,180,0,EB
+69 , WS-91WB , Westside-Flagler Center Exp wb,F,6,21,0,0,EB
+70 , U-2NB , University Blvd Connector eb nb,F,1,21,40,60,LB
+71 , U-2SB , University Blvd Connector wb sb,F,1,21,40,60,LB
+72 , WS-2NB , Blanding-Orange Park nb,F,1,21,38,60,LB
+73 , WS-2SB , Blanding-Orange Park sb,F,1,21,38,51,LB
+74 , WS-52NB , Blanding-Orange Park nb,F,1,21,60,60,LB
+75 , WS-52SB , Blanding-Orange Park sb,F,1,21,60,60,LB
+76 , WS-6NB , Stockton-Wilson nb,F,1,21,60,60,LB
+77 , WS-6SB , Stockton-Wilson sb,F,1,21,60,60,LB
+78 , WS-12NB , Murray Hill-Edgewood sb,F,1,21,70,72,LB
+79 , WS-12SB , Murray Hill-Edgewood nb,F,1,21,70,72,LB
+80 , CS-MandarinCW , CS-Mandarin-SS21 Clockwise,T,1,21,45,90,CS
+81 , CS-MandarinCCW , CS-Mandarin-SS21 Counterclockwise,T,1,21,180,90,CS
+82 , CS-Ort-NASSB , CS-Ortega-NAS-WS24 sb,F,1,21,90,360,CS
+83 , CS-Ort-NASNB , CS-Ortega-NAS-WS24 nb,F,1,21,60,360,CS
+84 , CS-TalleyNB , CS-Talleyrand nb,F,1,21,60,60,CS
+85 , CS-TalleySB , CS-Talleyrand sb,F,1,21,60,60,CS
+86 , WS-7WB , Normandy wb,F,1,21,60,60,LB
+87 , WS-7EB , Normandy eb,F,1,21,60,60,LB
+88 , CT-3Air-PowNB , CT-3 AirJTA-Powers nb,F,1,21,60,60,LB
+89 , CT-3Air-PowSB , CT-3 AirJTA-Powers sb,F,1,21,60,60,LB
+90 , K-2GrandPEB , Grand Park-Amtrak-Beach Blvd eb,F,1,21,35,35,LB
+91 , K-2GrandPWB , Grand Park-Amtrak-Beach Blvd wb,F,1,21,35,35,LB
+92 , R-5FSCJKEB , FSCJ Kent-Regency-FSCJ South-UNF-Town Center eb,F,1,21,60,60,LB
+93 , R-5FSCJKWB , FSCJ Kent-Regency-FSCJ South-UNF-Town Center wb,F,1,21,60,60,LB
+94 , S-1Reg-AveNB , Regency-Avenues nb,F,1,21,70,70,LB
+95 , S-1Reg-AveSB , Regency-Avenues sb,F,1,21,70,70,LB
+96 , SSBRedLineSB , Red Line Govern Cnt - Depot,F,8,21,180,120,LB
+97 , SSBRedLineNB , Red Line Govern Cnt - Depot,F,8,21,90,180,LB
+98 , SSBBlueLineSB , Blue Line Flagler Aud-Health Dept-Depot,F,8,21,180,120,LB
+99 , SSBBlueLineNB , Blue Line Flagler Aud-Health Dept-Depot,F,8,21,90,180,LB
+100 , SSB-PurpleLineSB , Avenues-Outlet Mall-KMart,F,8,21,180,180,LB
+101 , SSB-PurpleLineNB , Avenues-Outlet Mall-KMart,F,8,21,180,180,LB
+102 , SSBOrangeLineSB , Orange Line Flagler Aud-Health Dept-Depot,F,8,21,180,120,LB
+103 , SSBOrangeLineNB , Orange Line Flagler Aud-Health Dept-Depot,F,8,21,90,180,LB
+104 , SSBGreenLineSB , Green Line Moultrie-library-Depot,F,8,21,90,180,LB
+105 , SSBGreenLineNB , Green Line Moultrie-library-Depot,F,8,21,180,120,LB
+106 , SSBTealLineSB , Teal Line KMart-Elkton-Flagler Est,F,8,21,180,360,LB
+107 , SSBTealLineNB , Teal Line KMart-Elkton-Flagler Est,F,8,21,180,360,LB
+108 , SSBConnectorSB , Connector KMart-Flagler-Library,F,8,21,90,90,LB
+109 , SSBConnectorNB , Connector KMart-Flagler-Library,F,8,21,60,90,LB
+110 , RS-Palat_OPNB , Palatka-Orange Park nb,F,8,21,180,0,LB
+111 , RS-Palat_OPSB , Palatka-Orange Park sb,F,8,21,180,0,LB
+112 , RS-PalCityWB , Palatka-City wb,F,8,21,90,60,LB
+113 , RS-PalCityEB , Palatka-City eb,F,8,21,180,60,LB
+114 , RS-Putnam_FeederSB , South Putnam Feeder sb,F,8,21,90,180,LB
+115 , RS-Putnam_FeederNB , South Putnam Feeder nb,F,8,21,90,180,LB
+116 , RS-Putnam_CrossEB , Putnam Cross County Express eb,F,8,21,180,180,LB
+117 , RS-Putnam_CrossWB , Putnam Cross County Express wb,F,8,21,90,180,LB

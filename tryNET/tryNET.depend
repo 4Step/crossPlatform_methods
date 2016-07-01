@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1385514292 source:c:\personal\working\trynet\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+

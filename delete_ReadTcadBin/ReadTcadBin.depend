@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1385319916 source:c:\personal\working\readtcadbin\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<iomanip>
+	<time.h>
+	"ReadDCB.h"
+
+1385319895 c:\personal\working\readtcadbin\readdcb.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1385319909 source:c:\personal\working\readtcadbin\readdcb.cpp
+	"ReadDCB.h"
+
+1385319916 source:c:\personal\working\delete_readtcadbin\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<vector>
+	<iomanip>
+	<time.h>
+	"ReadDCB.h"
+
+1385319895 c:\personal\working\delete_readtcadbin\readdcb.h
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<vector>
+	<iomanip>
+	<algorithm>
+
+1385319909 source:c:\personal\working\delete_readtcadbin\readdcb.cpp
+	"ReadDCB.h"
+

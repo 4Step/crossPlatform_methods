@@ -1,0 +1,11 @@
+
+72
+"DB_ID",I,1,4,0,4,0,,"","",,"Blank",
+"TAZ",C,5,20,0,20,0,,"","",,"Blank",
+"ModelTAZ",I,25,4,0,8,0,,"","",,"Blank",
+"NAME",C,29,12,0,12,0,,"","",,"Blank",
+"AreaType",I,41,4,0,8,0,,"","",,"Blank",
+"EXT",I,45,4,0,8,0,,"","",,"Blank",
+"centroidcount",I,49,4,0,8,0,,"","",,"Blank",
+"District",I,53,4,0,8,0,,"","",,"Blank",
+"District_Name",C,57,16,0,16,0,,"","",,"Blank",

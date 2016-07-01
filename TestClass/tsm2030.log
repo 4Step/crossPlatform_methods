@@ -1,0 +1,12 @@
+==================================================================
+ Converter (BIN to CSV)                 Wed Feb 18 16:12:34 1970
+ Amar Sarvepalli, Sarvepalli@pbworld.com (Nov-24-2013)
+==================================================================
+The binary file       : tsm2030.bin
+The dictionary file   : tsm2030.dcb
+The binary file       : tsm2030.bin
+Total number of fields: 7940216
+Total field bytes     : 7940216
+==================================================================
+Num                      Field Name    Type  Size      Position
+==================================================================

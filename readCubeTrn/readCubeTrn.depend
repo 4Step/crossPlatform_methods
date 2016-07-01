@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1394689037 source:c:\personal\working\readcubetrn\main.cpp
+	<time.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<string.h>
+	<vector>
+	<iomanip>
+	<algorithm>
+
